@@ -5,4 +5,10 @@ Por [Diego Dantas](https://github.com/diegodantasf), [Gustavo Fontenele](https:/
 
 ## Reconhecimento de dígitos manuscritos com o dataset MNIST
 
-Neste trabalho utilizamos uma Rede Neural Convolucional para reconhecimento de digitos com o dataset MNIST.
+Neste trabalho utilizamos uma Rede Neural Convolucional para reconhecimento de digitos com o dataset MNIST. A arquitetetura da CNN utilizada pode ser vista na imagem abaixo.
+
+<p align="center">
+<img src="images/net.PNG" width="600"/>
+<div align="center">Arquitetura CNN</div>
+</p>
+
